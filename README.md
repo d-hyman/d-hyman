@@ -1,4 +1,4 @@
-Hi there 
+Hi there. 
 I am currently working on A Chrome Extention which allows users to bookmark blocks of text, images, and links from websites, and attatch notes to them in order to come back to them later.
 Connect with me via https://www.linkedin.com/in/daniel-hyman-a81a56310/
 
