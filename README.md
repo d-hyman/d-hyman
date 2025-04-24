@@ -1,6 +1,6 @@
-## Hi there 
-## I am currently working on A Chrome Extention which allows users to bookmark blocks of text, images, and links from websites, and attatch notes to them in order to come back to them later
-## https://www.linkedin.com/in/daniel-hyman-a81a56310/
+Hi there 
+I am currently working on A Chrome Extention which allows users to bookmark blocks of text, images, and links from websites, and attatch notes to them in order to come back to them later
+https://www.linkedin.com/in/daniel-hyman-a81a56310/
 
 <!--
 **danielHyman123/danielHyman123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
