@@ -25,6 +25,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks)
+![FXML](https://img.shields.io/badge/-FXML-05122A?style=flat&logo=xml&logoColor=white)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
