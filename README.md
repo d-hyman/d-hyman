@@ -79,6 +79,6 @@ Built with Java, SQLite, and CSS
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:danielhyman20@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&href=mailto:danielhyman20@gmail.com" />
   </a>
 </p>
