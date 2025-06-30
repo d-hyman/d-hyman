@@ -31,6 +31,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielHyman123&layout=compact&theme=github_dark&hide_border=true)
 
