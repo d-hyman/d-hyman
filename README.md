@@ -42,6 +42,8 @@
 A full-stack web app that tracks weather disasters and alerts users to keep friends and family safe. 
 Built with Django, Leaflet.js, Kontur API, Javascript, HTML, and CSS.
 
+[Video Demo](https://www.youtube.com/watch?v=bqQsm49eXjg)
+
 ---
 
 ### [Trackify](https://github.com/danielHyman123/Trackify-Chrome-Extention)  
@@ -53,7 +55,9 @@ Built with Chrome API, Javascript, HTML, and CSS
 ### [Voice-to-Website Builder](https://github.com/danielHyman123/Voice-to-website_builder)  
 A platform for blind or otherwise, disabled users to create a website, through verbal communication. Can also be used for general convenience.
 Built with Speech Recognition API, JavaScript, HTML, and CSS
-[Voice to Website Builder](https://danielhyman123.github.io/Voice-to-website_builder)
+[Application Link](https://danielhyman123.github.io/Voice-to-website_builder)
+
+[Video Demo](https://www.youtube.com/watch?v=k7jrEp8jU-A)
 
 ---
 
