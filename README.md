@@ -4,14 +4,14 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Web+Developer;Object+Oriented+Programmer;Tech+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Robotics;Web+Developer;Object+Oriented+Programmer;Tech+Enthusiast;Full+Stack+Developer" />
 </p>
 
 ---
 
 ## About Me
 - 2nd Year Systems Engineering Student
-- Interested in Web Applications, Object Oriented Programming, and trying new things
+- Interested in Robotics, Engineering, Web Applications, Object Oriented Programming, and trying new things
 ---
 
 ## Languages & Tools
