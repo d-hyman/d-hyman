@@ -78,7 +78,8 @@ Built with Java, SQLite, and CSS
   <a href="https://www.linkedin.com/in/daniel-hyman-a81a56310/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:danielhyman20@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&href=mailto:danielhyman20@gmail.com" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=danielhyman20@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </p>
