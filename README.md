@@ -58,7 +58,7 @@ Built with Chrome API, Javascript, HTML, and CSS
 ### [Voice-to-Website Builder](https://github.com/danielHyman123/Voice-to-website_builder)  
 A platform for blind or otherwise, disabled users to create a website, through verbal communication. Can also be used for general convenience.
 Built with Speech Recognition API, JavaScript, HTML, and CSS
-[Application Link](https://danielhyman123.github.io/Voice-to-website_builder)
+[Link to Builder](https://danielhyman123.github.io/Voice-to-website_builder)
 
 [Video Demo](https://www.youtube.com/watch?v=k7jrEp8jU-A)
 
