@@ -11,7 +11,7 @@
 
 ## About Me
 - 2nd Year Systems Engineering Student
-- Interested in Robotics, Engineering, Web Applications, Object Oriented Programming, and trying new things
+- Interested in Robotics, Engineering, Web Applications, Embedded Systems, and trying new things
 ---
 
 ## Languages & Tools
