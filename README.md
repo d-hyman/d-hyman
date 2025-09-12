@@ -77,6 +77,13 @@ Built with Java, SQLite, and CSS
 
 ---
 
+### [Personal Portfolio](https://github.com/danielHyman123/Portfolio)  
+Personal Portfolio to display my CAD designs, Microcontroller projects, and Most significant Programming projects
+Built with JavaScript, HTML, and CSS
+[Portfolio Website](https://danielhyman123.github.io/Portfolio/)
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=footer&text=📬+Connect+with+Me!&fontSize=30&fontColor=ffffff" width="100%" />
 </p>
