@@ -80,7 +80,7 @@ Built with Java, SQLite, and CSS
 ### [Personal Portfolio](https://github.com/danielHyman123/Portfolio)  
 Personal Portfolio to display my CAD designs, Microcontroller projects, and Most significant Programming projects
 Built with JavaScript, HTML, and CSS
-[Portfolio Website](https://danielhyman123.github.io/Portfolio/)
+[Portfolio Website](https://d-hyman.github.io/Portfolio/)
 
 ---
 
