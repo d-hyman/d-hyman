@@ -11,7 +11,7 @@
 
 ## About Me
 - 2nd Year Systems Engineering Student
-- Interested in Robotics, Engineering, Web Applications, Embedded Systems, and trying new things
+- Interested in Robotics, Engineering, Embedded Systems, Web Applications, and trying new things
 ---
 
 ## Languages & Tools
@@ -24,8 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks)
-![FXML](https://img.shields.io/badge/-FXML-05122A?style=flat&logo=xml&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=verilog-hdl&logoColor=white)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
@@ -35,11 +35,16 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielHyman123&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hyman&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## Standout Projects
+
+### [Leaf Watch](https://github.com/danielHyman123/Leaf-Watch)  
+Uses live NASA NDVI and Thermal data to map and track areas in the world with the highest deforestation rates and uses a reponsive AI prediction model to predict countries in danger of high deforestation in the future. 
+
+---
 
 ### [Weather Safety Application](https://github.com/danielHyman123/Weather-Safety-Application)  
 A full-stack web app that tracks weather disasters and alerts users to keep friends and family safe. 
