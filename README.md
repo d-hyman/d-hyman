@@ -41,7 +41,7 @@
 
 ## Standout Projects
 
-### [Leaf Watch](https://github.com/danielHyman123/Leaf-Watch)  
+### [Leaf Watch](https://github.com/d-hyman/Leaf-Watch)  
 Uses live NASA NDVI and Thermal data to map and track areas in the world with the highest deforestation rates and uses a reponsive AI prediction model to predict countries in danger of high deforestation in the future. 
 
 ---
