@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=verilog-hdl&logoColor=white)
 
 ### Frameworks & Libraries
@@ -32,14 +32,20 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-hyman&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## Standout Projects
+
+### [Personal Portfolio](https://github.com/danielHyman123/Portfolio)  
+Personal Portfolio to display my CAD designs, Microcontroller projects, and Most significant Programming projects
+Built with JavaScript, HTML, and CSS
+[Portfolio Website](https://d-hyman.github.io/Portfolio/)
+
+---
 
 ### [Leaf Watch](https://github.com/d-hyman/Leaf-Watch)  
 Uses live NASA NDVI and Thermal data to map and track areas in the world with the highest deforestation rates and uses a reponsive AI prediction model to predict countries in danger of high deforestation in the future. 
@@ -79,13 +85,6 @@ Built with C++, Arduino, Meccano Parts, and Household items
 Management System for students, faculty, and admin to add and keep track of classes, content, and grades 
 Built with Java, SQLite, and CSS
 [Database Manager](https://github.com/Ethank1354/DatabaseManager)
-
----
-
-### [Personal Portfolio](https://github.com/danielHyman123/Portfolio)  
-Personal Portfolio to display my CAD designs, Microcontroller projects, and Most significant Programming projects
-Built with JavaScript, HTML, and CSS
-[Portfolio Website](https://d-hyman.github.io/Portfolio/)
 
 ---
 
