@@ -10,8 +10,8 @@
 ---
 
 ## About Me
-- 2nd Year Systems Engineering Student
-- Interested in Robotics, Engineering, Embedded Systems, Web Applications, and trying new things
+- 3nd Year Systems Engineering Student
+- Interested in Robotics, Embedded Systems, Automation, and trying new things
 ---
 
 ## Languages & Tools
@@ -21,14 +21,16 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=verilog-hdl&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
-![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=verilog-hdl&logoColor=white)
+
 
 ### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![ROS2](https://img.shields.io/badge/-ROS2-05122A?style=flat&logo=ros&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -63,15 +65,6 @@ Built with Django, Leaflet.js, Kontur API, Javascript, HTML, and CSS.
 ### [Trackify](https://github.com/danielHyman123/Trackify-Chrome-Extention)  
 A simple and powerful Chrome extension that lets you create and manage notes directly from your browser. Save webpage content, add a title, categorize, and even store highlighted text — all in one place. 
 Built with Chrome API, Javascript, HTML, and CSS
-
----
-
-### [Voice-to-Website Builder](https://github.com/danielHyman123/Voice-to-website_builder)  
-A platform for blind or otherwise, disabled users to create a website, through verbal communication. Can also be used for general convenience.
-Built with Speech Recognition API, JavaScript, HTML, and CSS
-[Link to Builder](https://danielhyman123.github.io/Voice-to-website_builder)
-
-[Video Demo](https://www.youtube.com/watch?v=k7jrEp8jU-A)
 
 ---
 
